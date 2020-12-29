@@ -9,4 +9,6 @@ Build:
 
 Run:
 
+`docker-compose -f mongo-compose.yaml up -d`
+
 `go run main.go`
